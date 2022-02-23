@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasis73">
 
 <!--
 **Prasis73/Prasis73** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
